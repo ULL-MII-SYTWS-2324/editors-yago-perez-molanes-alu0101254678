@@ -59,6 +59,8 @@ Autor: Yago Pérez Molanes - alu0101254678
 
   ![boton_vscode_tutorial](doc/practice4-image10.png)
 
+  ![boton_gitpod_tutorial](doc/practice4-image11.png)
+
   * Botón del GitHub: también es posible clicar el botón "GitPod" que aparece en la pestaña "Code" del repositorio para abrir una pestaña del navegador con el entorno de GitPod.
 
   ![boton_gitpod_tutorial](doc/practice4-image11.png)
