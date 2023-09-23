@@ -9,6 +9,8 @@ Autor: Yago Pérez Molanes - alu0101254678
 
   * Me he dado de alta en GitPod, de forma que puedo acceder a él prefijando la URL que aparece en el navegador cuando se está en el repositorio con "gitpod.io/#", como se ve en la imagen.
 
+  ![instalado_gitpod](doc/captura.png)
+
   ![instalado_gitpod](doc/practice4-image1.png)
 
   * Si introducimos la dirección de la imagen anterior, nos lleva a GitPod, presentando un entorno muy similar al de VSCode. En este caso, aparece vacío porque el repositorio está vacío en el momento de redactar este apartado.
